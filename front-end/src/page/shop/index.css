@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    padding: 20px 80px;
+    /* gap: 30px 10px; */
+}
+.grid_item_category{
+    /* grid-column: 1 / 5; */
+    width: 30%;
+}
+.grid_item_product{
+    /* grid-column: 4 / 5; */
+    width: 70%;
+}

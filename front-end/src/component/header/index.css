@@ -1,0 +1,16 @@
+.nav1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+}
+.linkshop342{
+    color: black;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.header_css_custom{
+    background: white;
+}
